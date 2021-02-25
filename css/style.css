@@ -1,4 +1,4 @@
-*{
+/* *{
   margin:0;
   padding:0;
   box-sizing: border-box;
@@ -80,4 +80,4 @@ textarea:focus, input:focus{
   50%  {background-color:#343435; left:100px; top:0px;}
   75%  {background-color:#fff; left:1030px; top:0px;}
   100% {background-color:#6c4be3; left:1030px; top:410px;}
-}
+} */
